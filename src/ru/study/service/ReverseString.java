@@ -1,4 +1,4 @@
-package service;
+package ru.study.service;
 
 public class ReverseString {
 
