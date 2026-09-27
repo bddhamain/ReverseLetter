@@ -1,3 +1,5 @@
+package ru.study.service;
+
 public class ReverseString {
 
     public String reverseLetters(String input) {
