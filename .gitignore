@@ -9,6 +9,8 @@
 /dataSources/
 /dataSources.local.xml
 # Custom ingores
-ReverseLetter/.idea
-ReverseLetter/out
-ReverseLetter/ReverseLetter.iml
+.idea/
+out/
+ReverseLetter.iml
+target/
+
